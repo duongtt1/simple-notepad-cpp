@@ -5,4 +5,4 @@
 
 # Demo UI
 
-![simple-notepad!](/img/notepad-ui.png "simple-notepad")
+![simple-notepad!](/img/2.png "simple-notepad")
