@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icon/oCopy.png</file>
+        <file>icon/oCut.png</file>
+        <file>icon/oNew.png</file>
+        <file>icon/oOpen.png</file>
+        <file>icon/oPaste.png</file>
+        <file>icon/oSave.png</file>
+    </qresource>
+</RCC>
